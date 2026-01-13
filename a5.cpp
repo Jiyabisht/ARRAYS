@@ -31,3 +31,4 @@ int main(){
     duplicates(arr,n,k);
     return 0;
 }
+
