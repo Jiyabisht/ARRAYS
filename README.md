@@ -7,3 +7,4 @@
 6. Right rotate an array by kth position
 7. Rotate an array L-189
 8. Move zeroes at the end
+9. Linear search
