@@ -8,3 +8,4 @@
 7. Rotate an array L-189
 8. Move zeroes at the end (2-pointer)
 9. Linear search
+10. 10. union of two arrays (2 pointer)
