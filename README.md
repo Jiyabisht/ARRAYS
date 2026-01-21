@@ -6,7 +6,7 @@
 5. Left Rotate an array by one place and kth place
 6. Right rotate an array by kth position
 7. Rotate an array L-189
-8. Move zeroes at the end (2-pointer)
+8. Move zeroes at the end (2-pointer) L-283
 9. Linear search
 10. union of two arrays (2 pointer)
 11. Find Missing no. L-268
