@@ -10,3 +10,5 @@
 9. Linear search
 10. union of two arrays (2 pointer)
 11. Find Missing no. L-268
+12. xyz
+13. Max consecutive ones L-485
