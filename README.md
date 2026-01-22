@@ -12,4 +12,3 @@
 11. Find Missing no. L-268
 12. Product of an array except self L-238 > <mark>(Medium)</mark>
 13. Max consecutive ones L-485
-<span style="background-color: lightgrey;">yesss</span>
