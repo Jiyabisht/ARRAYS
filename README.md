@@ -6,11 +6,11 @@
 5. Left Rotate an array by one place and kth place
 6. Right rotate an array by kth position
 7. Rotate an array L-189
-8. Move zeroes at the end (2-pointer) L-283
+8. Move zeroes at the end (2-pointer) > [!IMPORTANT] L-283
 9. Linear search
 10. union of two arrays (2 pointer)
 11. Find Missing no. L-268
-12. Product of an array except self L-238 <mark>(Medium)</mark>
+12. Product of an array except self L-238 > <mark>(Medium)</mark>
 13. Max consecutive ones L-485
 > [!IMPORTANT]
 > This is a very important point that will be highlighted in a purple block.
