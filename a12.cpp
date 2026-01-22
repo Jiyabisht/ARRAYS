@@ -41,4 +41,23 @@ public:
         return res;
     }
 };
+
+
 //optimal solution = we reduce space complexity to O(1)
+class Solution {
+public:
+    vector<int> productExceptSelf(vector<int>& nums) {
+        int n=nums.size();
+        vector<int>res(n);
+        res[0]=1;
+        for(int i=1;i<n;i++){
+            res[i]=res[i-1]*nums[i-1];
+        }
+        int suf=1;
+        for(int i=n-2;i>=0;i--){
+            suf=suf*nums[i+1];
+            res[i]=suf*res[i];
+        }
+        return res;
+    }
+};
