@@ -10,5 +10,7 @@
 9. Linear search
 10. union of two arrays (2 pointer)
 11. Find Missing no. L-268
-12. Product of an array except self L-238 ([!TIP]Medium)
+12. Product of an array except self L-238 <mark>(Medium)</mark>
 13. Max consecutive ones L-485
+> [!IMPORTANT]
+> This is a very important point that will be highlighted in a purple block.
