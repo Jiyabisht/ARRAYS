@@ -23,12 +23,6 @@ public:
 #include<stack>
 using namespace std;
 
-// void unionarr(vector<int>& arr1,vector<int>& arr2,int n,int m){
-//     vector<int>res;
-//     int i=0,j=0;
-    //}
-
-
 int main(){
     int c=0,c1=0;
     int n;
