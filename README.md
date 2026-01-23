@@ -12,3 +12,5 @@
 11. Find Missing no. L-268
 12. Product of an array except self L-238 <mark>Medium</mark>
 13. Max consecutive ones L-485
+14. Reverse an array (gfg)
+15. Two Sum <mark>Medium</mark>
