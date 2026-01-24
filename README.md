@@ -13,4 +13,4 @@
 12. Product of an array except self L-238 <mark>Medium</mark>
 13. Max consecutive ones L-485
 14. Reverse an array (gfg) <mark>Two Pointer</mark>
-15. Two Sum L-1 <mark>Two Pointer</mark>
+15. Two Sum L-1 <mark>Hashing/Hash Map</mark>
