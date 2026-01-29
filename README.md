@@ -14,3 +14,4 @@
 13. Max consecutive ones L-485
 14. Reverse an array (gfg) <mark>Two Pointer</mark>
 15. Two Sum L-1 <mark>Hashing/Hash Map</mark>
+16. Single no.L-136
