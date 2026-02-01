@@ -15,3 +15,4 @@
 14. Reverse an array (gfg) <mark>Two Pointer</mark>
 15. Two Sum L-1 <mark>Hashing/Hash Map</mark>
 16. Single no.L-136
+17. Buy Two Chocolates L-2706
