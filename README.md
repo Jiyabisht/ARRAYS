@@ -16,3 +16,5 @@
 15. Two Sum L-1 <mark>Hashing/Hash Map</mark>
 16. Single no.L-136  <mark>Hashing</mark>
 17. Buy Two Chocolates L-2706
+18. Number of Students Unable to Eat Lunch L-1700
+19. power of 2
