@@ -13,6 +13,8 @@ public:
         }
     }
 };
+//Time comp=O(n^2)
+//space complex.=O(1)
 
 class Solution {
 public:
@@ -35,7 +37,7 @@ public:
         return -1;
     }
 };
-
+//Time and Space complexity both are O(n)
 // key → number from array
 // value → frequency (count)
 // What does mp[nums[i]] mean?
