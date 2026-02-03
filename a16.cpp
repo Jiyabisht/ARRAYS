@@ -23,6 +23,23 @@ public:
         unordered_map<int,int>mp;
         for(int i=0;i<nums.size();i++){
             mp[nums[i]]++;  //automatically count is 0 then it increases add element in hashmap
+        
+// Case 1️⃣: Key does NOT exist yet
+// Example:
+// nums[i] = 5
+// mp[5] does NOT exist
+// unordered_map automatically creates it
+// Default value = 0
+// Then:
+// mp[5]++  →  0 + 1 = 1
+// ✅ Now map has:
+// 5 → 1
+
+// Case 2️⃣: Key already exists
+// If later another 5 comes:
+// mp[5]++  →  1 + 1 = 2
+// Now:
+// 5 → 2
         }
         for(int i = 0; i < nums.size(); i++) {
             if(mp[nums[i]] == 1) {
