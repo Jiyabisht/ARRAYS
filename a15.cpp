@@ -42,3 +42,12 @@ public:
         return {};
     }
 };
+// When we do:
+// if(mp.find(key) != mp.end())
+// It means:
+// mp.find(key) found the key in the map ✅
+
+// When:
+// mp.find(key) == mp.end()
+// It means:
+// key does NOT exist in the map ❌
