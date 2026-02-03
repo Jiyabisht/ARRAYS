@@ -22,7 +22,7 @@ public:
     int singleNumber(vector<int>& nums) {
         unordered_map<int,int>mp;
         for(int i=0;i<nums.size();i++){
-            mp[nums[i]]++;  //automatically count is 0 then it increases
+            mp[nums[i]]++;  //automatically count is 0 then it increases add element in hashmap
         }
         for(int i = 0; i < nums.size(); i++) {
             if(mp[nums[i]] == 1) {
