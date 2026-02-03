@@ -4,13 +4,14 @@ public:
     int singleNumber(vector<int>& nums) {
         for(int i=0;i<nums.size();i++){
             int c=0;
-            for(int j=1;j<nums.size();j++){
-                if(nums[i]==nums[j]){
+            for(int j=0;j<nums.size();j++){
+                if(nums[i]==nums[j] && i!=j){
                     c++;
                 }
             }
-            if(c==1) return nums[i];
+            if(c==0) return nums[i];
         }
+        return -1
     }
 };
 //Time comp=O(n^2)
