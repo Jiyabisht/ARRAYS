@@ -22,3 +22,5 @@ public:
         return sum;
     }
 };
+//The time complexity of this solution is O(n + m), where n is the size of the students vector and m is the size of the sandwiches vector.
+//The space complexity is O(1)
