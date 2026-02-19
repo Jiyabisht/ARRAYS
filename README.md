@@ -20,5 +20,5 @@
 19. power of 2
 20.  Count Elements With Maximum Frequency L-3005
 21.  Two sum II L-167 <mark>Two Pointer</mark>
-22. Squares of a Sorted Array
-23. 
+22. Squares of a Sorted Array <mark>Two Pointer</mark>
+23. Merge Sorted Arrays <mark>Two Pointer</mark> L-88
