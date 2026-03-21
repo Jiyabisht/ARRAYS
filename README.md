@@ -24,4 +24,4 @@
 23. Merge Sorted Arrays <mark>Two Pointer</mark> L-88
 24. Container With Most Water <mark>Two Pointer</mark> L-11
 25. Count Pairs Whose Sum is Less than Target <mark>Two Pointer</mark> L-2824
-26. 3Sum <mark>Two Pointer> L-15 <mark>Two Pointer</mark> <mark>Medium</mark> L-282
+26. 3Sum <mark>Two Pointer> L-15 <mark>Medium</mark>
