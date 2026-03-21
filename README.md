@@ -23,4 +23,5 @@
 22. Squares of a Sorted Array <mark>Two Pointer</mark>
 23. Merge Sorted Arrays <mark>Two Pointer</mark> L-88
 24. Container With Most Water <mark>Two Pointer</mark> L-11
-25. Count Pairs Whose Sum is Less than Target <mark>Two Pointer> L-2824
+25. Count Pairs Whose Sum is Less than Target <mark>Two Pointer</mark> L-2824
+26. 3Sum <mark>Two Pointer> L-15 <mark>Two Pointer</mark> <mark>Medium</mark> L-282
