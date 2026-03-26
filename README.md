@@ -26,4 +26,4 @@
 25. Count Pairs Whose Sum is Less than Target <mark>Two Pointer</mark> L-2824
 26. 3Sum <mark>Two Pointer</mark> L-15 <mark>Medium</mark>
 27. Sort two colors <mark>Two Pointer</mark>
-28. Sort three colors <mark>Two Pointer</mark> L-75
+28. Sort three colors/Dutch National Flag algorithm <mark>Two Pointer</mark> L-75
