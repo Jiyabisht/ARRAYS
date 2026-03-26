@@ -31,3 +31,31 @@ In summary:
 Time complexity: O(n)
 Space complexity: O(1)
 */
+
+
+//optimal solution
+class Solution {
+public:
+    void sortColors(vector<int>& nums) {
+        int i=0,k=0,j=nums.size()-1;
+        while(k <= j){
+            if(nums[k]==1) k++;
+            else if(nums[k]==2){
+                swap(nums[k],nums[j]);
+                j--;
+            }else if(nums[k]==0){
+                swap(nums[k],nums[i]);
+                i++;
+                k++;
+            }
+        }
+    }
+};
+/*
+| Type  | Complexity |
+| ----- | ---------- |
+| Time  | **O(n)** ✅ |
+| Space | **O(1)** ✅ |
+Why it's optimal
+Faster than counting? → Same O(n), but 1 pass instead of 2
+*/
