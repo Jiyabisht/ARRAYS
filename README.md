@@ -27,3 +27,4 @@
 26. 3Sum <mark>Two Pointer</mark> L-15 <mark>Medium</mark>
 27. Sort two colors <mark>Two Pointer</mark>
 28. Sort three colors/Dutch National Flag algorithm <mark>Two Pointer</mark> L-75
+29. Maximum Subarray <mark>Medium</mark>  L-53
